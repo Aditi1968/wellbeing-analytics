@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db-journal
+
+# Streamlit
+.streamlit/
+
+# Data
+data/*.csv
+!data/health360.db
+
+# OS
+.DS_Store
+
+# Notebooks
+*.ipynb_checkpoints
